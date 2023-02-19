@@ -22,7 +22,7 @@ Este programa es un apoyo para realizar "competencias" en clase, de forma presen
 
 ## Funcionamiento
 
-*Nota: la herramienta está pensada para su utilización en clases presenciales*
+*Nota: la herramienta está pensada para su utilización en clases presenciales.*
 
 Los competidores se dividirán en dos equipos y cada equipo seleccionará un "representante".
 
