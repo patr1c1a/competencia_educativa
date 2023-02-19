@@ -22,6 +22,8 @@ Este programa es un apoyo para realizar "competencias" en clase, de forma presen
 
 ## Funcionamiento
 
+*Nota: la herramienta está pensada para su utilización en clases presenciales*
+
 Los competidores se dividirán en dos equipos y cada equipo seleccionará un "representante".
 
 Por turnos, el representante de un equipo se colocará de espaldas a la pantalla (de manera que no pueda verla), mientras el resto del equipo estará frente a él (de forma que pueda ver la pantalla).
